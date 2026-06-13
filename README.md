@@ -8,7 +8,7 @@ With the increasing number of cyber threats such as malware, phishing, ransomwar
 
 ---
 
-## Project Overview
+## Overview
 
 CyberWatch Pro is an interactive Power BI dashboard developed to analyze cybersecurity events and monitor network intrusion activities. The dashboard provides a centralized view of attack patterns, threat severity, detection performance, and incident response metrics, enabling users to gain actionable insights from security data.
 
@@ -23,6 +23,25 @@ The project demonstrates how Business Intelligence tools can be used in cybersec
 * Track intrusion detection effectiveness.
 * Identify critical security incidents.
 * Support data-driven security decisions.
+
+---
+
+## Key Metrics
+- **Total Events:** 2K | **Total Attacks:** 1K
+- **Attack Rate:** 59.65% | **Detection Rate:** 52.31%
+- **Critical Alerts:** 254
+
+## Attack Types Covered
+DDoS, DoS Slowloris, DoS Hulk, PortScan, Bot, 
+FTP-Patator, SSH-Patator, Infiltration, Web Attack – SQL Injection
+
+## Visuals Included
+- Attack by Type (Donut Chart)
+- Severity Distribution (Bar Chart — Medium / High / Critical)
+- Daily Attack Trend (Time Series)
+- Undetected Threats by Attack Type
+- Detection Rate Gauge
+- Incidence Response Pipeline (Allowed / Blocked / Detected / Missed)
 
 ---
 
