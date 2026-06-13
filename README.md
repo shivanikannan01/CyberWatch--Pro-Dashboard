@@ -67,7 +67,7 @@ The project demonstrates how Business Intelligence tools can be used in cybersec
 
 ## Dashboard Preview
 
-!!(CyberWatch_Dashboard.png-1.png)(dashboard.png)
+<img width="2268" height="1174" alt="CyberWatch_Dashboard" src="https://github.com/user-attachments/assets/5786dc0d-129f-40d6-858b-8547d4468064" />
 
 ---
 
